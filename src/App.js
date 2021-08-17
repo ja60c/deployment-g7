@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <h1>Hola desdde App! 👋</h1>
+    <h1>Hola, desde APP! 😺</h1>
     <TarjetaPost />
     </>
   );

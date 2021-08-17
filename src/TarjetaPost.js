@@ -7,8 +7,8 @@ function TarjetaPost() {
 
     return(
         <div className="tarjeta-post">
-            <h3 className="tarjeta-titulo">Un post increíble de ejemplo</h3>
-            <p className="tarjeta-descripcion">Esta es la descripcion de un post incleible que estoy creando de ejemplo</p>
+            <h3 className="tarjeta-titulo">Un post de Jacqueline Callejas</h3>
+            <p className="tarjeta-descripcion">Hola, soy Jacqueline y estoy aprendiendo a crear apps en react y subirlas a través de Netlify ✨</p>
             <div className="tarjeta-botones">
                 <button className="tarjeta-boton" onClick= {decrementarContador}>-</button>
                 <span className="contador"> {contador} </span>
