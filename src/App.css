@@ -5,6 +5,7 @@ body {
     justify-content: center;
 }
 .tarjeta-post {
+    background-color: rgb(233, 229, 253);
     border: 3px solid purple;
     border-radius: 20px;
     padding: 1em;
@@ -32,7 +33,7 @@ body {
 .tarjeta-boton{
     font-size: 1.5em;
     padding: .5em 1em;
-    border: 3px solid purple;
+    border: 3px solid rgb(0, 128, 53);
     border-radius: 20px;
     background-color: yellowgreen;
     box-shadow: 1px 1px 1px black;
