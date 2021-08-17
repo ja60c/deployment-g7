@@ -1,4 +1,4 @@
-import { userState, useState } from 'react';
+import { userState } from 'react';
 
 function TarjetaPost() {
     const [ contador, setContador ] = useState(0)
